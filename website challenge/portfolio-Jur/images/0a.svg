@@ -1,0 +1,68 @@
+<?xml version="1.0" ?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 190">
+  <!-- Fondo principal con color invertido -->
+  <rect width="320" height="190" fill="none"/>
+  
+  <!-- Elementos decorativos de código con colores tipo VS Code - MAYOR VISIBILIDAD -->
+  <g opacity="0.45">
+    <!-- HTML - Parte superior izquierda, lejos del texto -->
+    <text x="15" y="20" font-family="monospace" font-size="7" fill="#569cd6">&lt;html&gt;</text>
+    <text x="20" y="30" font-family="monospace" font-size="7" fill="#569cd6">&lt;head&gt;</text>
+    <text x="25" y="40" font-family="monospace" font-size="7" fill="#569cd6">&lt;title&gt;</text>
+    <text x="30" y="50" font-family="monospace" font-size="7" fill="#ce9178">Programming Skills&lt;/title&gt;</text>
+    <text x="20" y="60" font-family="monospace" font-size="7" fill="#569cd6">&lt;/head&gt;</text>
+    
+    <!-- JavaScript - Parte superior derecha -->
+    <text x="200" y="20" font-family="monospace" font-size="7" fill="#6a9955">// Initialize app</text>
+    <text x="200" y="30" font-family="monospace" font-size="7" fill="#c586c0">const</text>
+    <text x="225" y="30" font-family="monospace" font-size="7" fill="#9cdcfe">app</text>
+    <text x="240" y="30" font-family="monospace" font-size="7" fill="#d4d4d4">=</text>
+    <text x="250" y="30" font-family="monospace" font-size="7" fill="#dcdcaa">express</text>
+    <text x="285" y="30" font-family="monospace" font-size="7" fill="#d4d4d4">();</text>
+    
+    <!-- Python - Parte inferior izquierda -->
+    <text x="15" y="160" font-family="monospace" font-size="7" fill="#c586c0">def</text>
+    <text x="30" y="160" font-family="monospace" font-size="7" fill="#dcdcaa">main</text>
+    <text x="50" y="160" font-family="monospace" font-size="7" fill="#d4d4d4">():</text>
+    <text x="25" y="170" font-family="monospace" font-size="7" fill="#c586c0">return</text>
+    <text x="55" y="170" font-family="monospace" font-size="7" fill="#569cd6">True</text>
+    
+    <!-- CSS - Parte inferior derecha -->
+    <text x="200" y="150" font-family="monospace" font-size="7" fill="#9cdcfe">.container</text>
+    <text x="245" y="150" font-family="monospace" font-size="7" fill="#d4d4d4">{</text>
+    <text x="210" y="160" font-family="monospace" font-size="7" fill="#9cdcfe">display:</text>
+    <text x="245" y="160" font-family="monospace" font-size="7" fill="#ce9178">flex;</text>
+    <text x="210" y="170" font-family="monospace" font-size="7" fill="#9cdcfe">margin:</text>
+    <text x="245" y="170" font-family="monospace" font-size="7" fill="#b5cea8">2rem</text>
+    <text x="265" y="170" font-family="monospace" font-size="7" fill="#d4d4d4">;</text>
+    
+    <!-- React - Parte media izquierda -->
+    <text x="15" y="80" font-family="monospace" font-size="7" fill="#c586c0">import</text>
+    <text x="45" y="80" font-family="monospace" font-size="7" fill="#9cdcfe">React</text>
+    <text x="70" y="80" font-family="monospace" font-size="7" fill="#c586c0">from</text>
+    <text x="90" y="80" font-family="monospace" font-size="7" fill="#ce9178">'react';</text>
+    
+    <!-- Angular - Parte media derecha -->
+    <text x="200" y="70" font-family="monospace" font-size="7" fill="#c586c0">@Component</text>
+    <text x="200" y="80" font-family="monospace" font-size="7" fill="#d4d4d4">({</text>
+    <text x="210" y="90" font-family="monospace" font-size="7" fill="#9cdcfe">selector:</text> 
+    <text x="250" y="90" font-family="monospace" font-size="7" fill="#ce9178">'app-root'</text>
+    <text x="200" y="100" font-family="monospace" font-size="7" fill="#d4d4d4">})</text>
+    
+    <!-- Typescript - Parte central inferior -->
+    <text x="125" y="150" font-family="monospace" font-size="7" fill="#c586c0">interface</text>
+    <text x="155" y="150" font-family="monospace" font-size="7" fill="#4ec9b0">Certificate</text>
+    <text x="125" y="160" font-family="monospace" font-size="7" fill="#d4d4d4">{</text>
+    <text x="135" y="170" font-family="monospace" font-size="7" fill="#9cdcfe">name:</text>
+    <text x="155" y="170" font-family="monospace" font-size="7" fill="#4ec9b0">string</text>
+    <text x="125" y="180" font-family="monospace" font-size="7" fill="#d4d4d4">}</text>
+  </g>
+  
+  <!-- Texto Principal con Raleway -->
+  <text x="160" y="95" font-family="'Raleway', sans-serif" font-size="24" font-weight="bold" fill="#212121" text-anchor="middle">My Certifications</text>
+  
+  <!-- Subtítulo con Raleway -->
+  <text x="160" y="120" font-family="'Raleway', sans-serif" font-size="8" fill="#212121" text-anchor="middle">Python • JavaScript • HTML • CSS • Tailwind • Bootstrap • Angular • Node</text>
+  
+  <!-- Línea decorativa sutil -->
+  <path d="M80,130 Q160,125 240,130" stroke="#212121" stroke-width="0.5" fill="none" opacity="0.3"/>
+</svg>
