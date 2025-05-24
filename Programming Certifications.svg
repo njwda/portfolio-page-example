@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 190">
+  <!-- Fondo principal -->
+  <rect width="320" height="190" fill="#212121"/>
+  
+  <!-- Elementos decorativos -->
+  <g fill="#6498A8" opacity="0.1">
+    <text x="15" y="25" font-family="monospace" font-size="8">&lt;html&gt;</text>
+    <text x="25" y="40" font-family="monospace" font-size="8">&lt;head&gt;</text>
+    <text x="35" y="55" font-family="monospace" font-size="8">&lt;title&gt;</text>
+    <text x="250" y="70" font-family="monospace" font-size="8">def main():</text>
+    <text x="260" y="85" font-family="monospace" font-size="8">return true</text>
+    <text x="20" y="140" font-family="monospace" font-size="8">import React from 'react';</text>
+    <text x="10" y="170" font-family="monospace" font-size="8">const app = express();</text>
+  </g>
+  
+  <!-- Íconos de lenguajes/frameworks -->
+  <g fill="#6498A8" opacity="0.6">
+    <!-- Python -->
+    <path d="M30,110 C30,100 38,100 38,110 L38,120 C38,130 30,130 30,120 Z" />
+    <!-- JS -->
+    <rect x="60" y="105" width="15" height="15" rx="3" />
+    <!-- HTML -->
+    <path d="M90,105 L98,120 L106,105 Z" />
+    <!-- CSS -->
+    <circle cx="130" cy="112" r="8" />
+    <!-- Node -->
+    <path d="M155,105 Q165,120 175,105 Z" />
+    <!-- Angular -->
+    <path d="M200,105 L208,120 L216,105 L200,105" />
+  </g>
+  
+  <!-- Línea decorativa -->
+  <path d="M40,140 Q160,110 280,140" stroke="#6498A8" stroke-width="1.5" fill="none" />
+  
+  <!-- Texto Principal -->
+  <text x="160" y="100" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#6498A8" text-anchor="middle">My Certifications</text>
+  
+  <!-- Subtítulo -->
+  <text x="160" y="120" font-family="Arial, sans-serif" font-size="8" fill="#6498A8" opacity="0.8" text-anchor="middle">Python • JavaScript • HTML • CSS • Tailwind • Bootstrap • Angular • Node</text>
+</svg>
